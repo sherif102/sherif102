@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am Sheriff Abdulfatai, an enthusiastic software engineer and current student at ALX SE, where I am refining my skills and expanding my knowledge in the field. Driven by a passion for technology and a commitment to excellence, I am excited about the opportunity to work on industry-standard projects. My goal is to leverage my learning to tackle real-world challenges and contribute to impactful solutions in the software industry.
+
 <!--
 **hyperbayse/hyperbayse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
