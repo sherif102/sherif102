@@ -4,7 +4,7 @@ Hi, I’m a software engineer passionate about building scalable, high-performan
 
 I focus on writing clean, maintainable code while optimizing applications for speed, security, and a seamless user experience. Whether you're launching a new product or improving an existing one, I’m here to help bring your ideas to life.
 
-Let’s build something great together! Feel free to reach out—I'm happy to chat about your next project. You can message me here or email me at sherif102.engr@gmail.com.
+Let’s build something great together! Feel free to reach out—I'm happy to chat about your next project. You can message me here or email me at sheriffabdulfatai74@gmail.com.
 
 <!--
 **hyperbayse/hyperbayse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
